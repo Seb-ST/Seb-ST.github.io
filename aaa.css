@@ -1,0 +1,85 @@
+@charset "utf-8";
+@font-face{font-family:let;
+           src: url(Letra.ttf)}
+*{margin:0;
+  padding::0;
+  font-family: "let"}
+header{
+	   border: #3CF 15px ridge;
+	   font-size:200%;
+	   margin:auto;
+	   margin-top:50px;
+	   width:1400px;
+	   height:200;
+	   color:#3CF;
+	   background-image:url(https://i.pinimg.com/564x/90/76/86/9076864229ab390a6b18d4b403874812.jpg);
+	   }
+header a{
+	    color: white;
+	   }
+body   {
+	    background-image:url(https://i.pinimg.com/564x/bb/2c/93/bb2c93f48e617273e19858d19674b7c5.jpg);
+       }
+#yutu{
+	   border: #3CF 15px ridge;
+	   position:fixed;
+	   float:right;
+	   margin:870px;
+	   margin-top:20px;	   
+	   width:auto;
+	   height:auto;
+	   padding:30px;
+	   text-align:center;
+       }   
+#pc{   
+       margin:100px;
+	   margin-top:10px;
+	   padding:40px;
+	   width:700px;
+	   height:auto;
+	   }
+#nt{   
+       margin:100px;
+	   margin-top:10px;
+	   padding:40px;
+	   width:700px;
+	   height:auto;
+	   }
+#pl{   
+	   margin:100px;
+	   margin-top:10px;
+	   padding:40px;
+	   width:700px;
+	   height:auto;
+	   }
+#in p{ 
+       font-size:50px;  
+	   margin:100px;
+	   margin-top:10px;
+	   padding:40px;
+	   width:700px;
+	   height:auto;
+	   }
+#link{ 
+       position:absolute;
+       background-image:url(https://i.pinimg.com/564x/90/76/86/9076864229ab390a6b18d4b403874812.jpg);
+       border: #3CF 15px ridge;
+       text-align: center;
+       font-size:35px;
+       margin:auto;
+	   margin-top:auto;
+	   width:1400px;
+	   height:110px;
+	   color:#3CF;
+	   }	
+#link a{
+	    color: white;
+	   }
+h2{
+	   color: #3CF;
+	   font-size: 40px;
+       }
+p{
+	font-size: 25px;
+	color:white;
+	   }
